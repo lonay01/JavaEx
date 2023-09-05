@@ -1,6 +1,7 @@
 package org.example.task1;
 
 import java.util.ArrayList;
+import java.util.Hashtable;
 import java.util.List;
 
 class HeavyBox {
@@ -54,6 +55,7 @@ public class Main {
         for (HeavyBox hb : heavyBoxList) {
             hb3[i++] = hb;
         }
+
 
         for (HeavyBox h : hb1) {
             System.out.println(h);
