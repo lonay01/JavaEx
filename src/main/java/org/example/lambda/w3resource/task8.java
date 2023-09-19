@@ -15,6 +15,7 @@ public class task8 {
             System.out.println(buf);
         };
 
+
         factorial.accept(15);
     }
 }
